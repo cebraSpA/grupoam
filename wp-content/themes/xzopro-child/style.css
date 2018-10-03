@@ -5,3 +5,10 @@ Template:       xzopro
 Author: 		ThemeDraft
 Version: 		1.0.0
 */
+
+.header-bottom-area, .banner-area{
+	display: none;
+}
+.wpb_revslider_element.wpb_content_element {
+  margin: 0;
+}
